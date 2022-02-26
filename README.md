@@ -1,6 +1,6 @@
 # RPG Game Maker-Free-Cryptocurrency-Algo-Payment-Gateway<br>
 
-## Recieve ETH,BNB,FTM,Matic,Moonriver in your RPGMaker MV Games!
+## Recieve ETH,BNB,FTM,Matic,Moonriver.. cryptocurrencies in your RPGMaker MV Games!
 
 RPGMaker Free Cryptocurrency Payment Gateway<br>
 due to reduce the size of zip file ,"audio" and "img" folder are deleted,<br>
