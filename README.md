@@ -8,11 +8,20 @@ due to reduce the size of zip file ,"audio" and "img" folder are deleted,<br>
 you just need create a new RPG Maker Project, then copy "audio" and "img" folder to this project. <br>
 and then launch the Game.rpgproject. <br>
  <br>
- *This plugin now support Ethereum,Binance,Polygon,Fantom,Moonriver,and Ropsten Test network. <br>
- *Script command <br>
- *BuyCoin        # player send "PlayerSendCryptoAmount" coins to Game Owner address ,and get "PlayerGetGameGolds" game golds. <br>
- *CreateWallet   # Create new wallet <br>
- *ShowMyWallet   # Show Player Wallet info. <br>
+ 
+*This plugin now support Ethereum,Binance,Polygon,Fantom,Moonriver,and Ropsten Test network. <br>
+### How To Use<br>
+1.Copy the "AlgoCryptoPayment.js" and "RS_InputDialog.js" files into your project's /js/plugins/ folder.<br>
+2.Activate plugin using the 'Plugin Manager'.<br>
+
+
+### Script command <br>
+BuyCoin<br>
+player send "PlayerSendCryptoAmount" coins to Game Owner address ,and get "PlayerGetGameGolds" game golds. <br><br>
+CreateWallet<br>
+Create new wallet<br><br>
+ShowMyWallet<br>
+Show Player Wallet info. <br>
  
 
  
