@@ -23,7 +23,7 @@ Create new wallet<br><br>
 ShowMyWallet<br>
 Show Player Wallet info. <br>
  
-
+Video tutorial:https://www.youtube.com/watch?v=DL4XKOE8eN8
  
  
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/algoPayment.png" alt="algoPayment">
