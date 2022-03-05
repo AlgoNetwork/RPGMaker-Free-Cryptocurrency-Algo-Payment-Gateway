@@ -1,5 +1,5 @@
 # RPG Game Maker-Free-Cryptocurrency-Algo-Payment-Gateway<br>
-## Algo Crypto Plugin.
+## Algo Crypto Blockchian Plugin.
 
 ## Free Plugin!
 ## Recieve ETH,BNB,FTM,Matic,Moonriver.. cryptocurrencies in your RPGMaker MV Games!
