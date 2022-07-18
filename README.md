@@ -6,6 +6,8 @@
 
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/icon/eth.png" width="25" height="25" alt="eth"> <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/icon/bnb.png" width="25" height="25" alt="bnb"> <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/icon/ftm.png" width="25" height="25" alt="ftm"> <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/icon/matic.png" width="25" height="25" alt="matic"> <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/icon/movr.png" width="25" height="25" alt="movr"><br>
 RPGMaker Free Cryptocurrency Payment Gateway<br>
+
+### How To Run Game Project<br>
 due to reduce the big size of project zip file ,"audio" and "img" folder are deleted,<br>
 you just need create a new RPG Maker Project, then copy "audio" and "img" folder to this project. <br>
 and then launch the Game.rpgproject. <br>
