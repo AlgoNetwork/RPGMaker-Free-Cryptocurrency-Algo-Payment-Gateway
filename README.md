@@ -18,6 +18,8 @@ and then launch the Game.rpgproject. <br>
 
 
 ## Script command <br>
+<img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/script.png" alt="RPGmaker crypto payment1">
+
 
 ### Create New wallet
 CreateWallet()<br>
