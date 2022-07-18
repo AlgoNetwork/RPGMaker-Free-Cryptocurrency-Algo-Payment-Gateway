@@ -41,16 +41,16 @@ ownerOf(3,"0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1")<br>
 
 ### Send ETH/BNB... to Game Owner,and recive game coins
 SendBaseCoin(SendToAddress,SendAmount,GetGameCoins)<br>
-SendBaseCoin(  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",0.01,1000 ) <br>
+SendBaseCoin(  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",0.01,1000 ) <br><br>
 Send 0.01 ETH/BNB/matic to  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 1000 Game Coins. <br>
 
 ### Send ERC20 Token to Game Owner,and recive game coins
 SendERC20(TokenAddress,TokenDecimals,SendAmount,SendTo,GetGameCoins)<br>
-SendERC20( "0xFA9A0930D919657b00e208631c836B404B2da729",18,1,"0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",1000 )<br>
+SendERC20( "0xFA9A0930D919657b00e208631c836B404B2da729",18,1,"0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",1000 )<br><br>
 Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f" ,and get 1000 Game Coins.<br>
 
 ### Transfer NFT
-safeTransferFrom(NFTAddress,FromAddress,ToAddress,TokenID)<br>
+safeTransferFrom(NFTAddress,FromAddress,ToAddress,TokenID)<br><br>
 safeTransferFrom( "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1","0xb6A4c1C0af091aFFff0E7d4D8E09f2e400286e34","0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",2 )<br>
 
 
