@@ -26,7 +26,9 @@ and then launch the Game.rpgproject. <br>
 ## Script command <br>
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/script.png" alt="RPGmaker crypto payment1">
 
-
+````diff
++ Green Text
+- Red Text
 ### Create New wallet
 CreateWallet()<br>
 
@@ -47,7 +49,7 @@ SendBaseCoin(SendToAddress,SendAmount,GetGameCoins)<br>
 SendBaseCoin(  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",0.01,1000 ) <br><br>
 Send 0.01 ETH/BNB/matic to  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 1000 Game Coins. <br>
 
-### Send ERC20 Token to Game Owner,and recive game coins
+### Send ERC20 Token(USDT,DAI,UNI...) to Game Owner,and recive game coins
 SendERC20(TokenAddress,TokenDecimals,SendAmount,SendTo,GetGameCoins)<br>
 SendERC20( "0xFA9A0930D919657b00e208631c836B404B2da729",18,1,"0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",1000 )<br><br>
 Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f" ,and get 1000 Game Coins.<br>
@@ -58,7 +60,7 @@ safeTransferFrom( "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1","0xb6A4c1C0af091a
 
 
 
-
+````
 
 
 
