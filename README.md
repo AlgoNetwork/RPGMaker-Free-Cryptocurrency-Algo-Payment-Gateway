@@ -18,7 +18,7 @@ and then launch the Game.rpgproject. <br>
 1.Copy the "AlgoCryptoPayment.js" and "RS_InputDialog.js" files into your project's /js/plugins/ folder.<br>
 2.Activate plugin using the 'Plugin Manager'.<br>
 
-## ** Before test , make sure your account have enough ETH/BNB/ Token / NFT **
+## ** Before test , make sure your crypto account have enough ETH/BNB/ Token / NFT **
 
 ## Script command <br>
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/script.png" alt="RPGmaker crypto payment1">
