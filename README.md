@@ -32,11 +32,11 @@ InfoOfERC20("0xFA9A0930D919657b00e208631c836B404B2da729")<br>
 ownerOf(3,"0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1")<br>
 3 is tokenID, "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1" is ERC721 token address<br>
 
-### Show Infomation of ERC20 token
+### Send ETH/BNB... to Game Owner,and recive game coins
 SendBaseCoin(  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",0.01,1000 ) <br>
 Send 0.01 ETH/BNB/matic to  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 1000 Game Coins. <br>
 
-### Show Infomation of ERC20 token
+### Send ERC20 Token... to Game Owner,and recive game coins
 SendERC20( "0xFA9A0930D919657b00e208631c836B404B2da729",18,1,"0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",1000 )<br>
 Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f" ,and get 1000 Game Coins.<br>
 
