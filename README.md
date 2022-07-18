@@ -17,13 +17,39 @@ and then launch the Game.rpgproject. <br>
 2.Activate plugin using the 'Plugin Manager'.<br>
 
 
-### Script command <br>
-BuyCoin<br>
-player send "PlayerSendCryptoAmount" coins to Game Owner address ,and get "PlayerGetGameGolds" game golds. <br><br>
-CreateWallet<br>
-Create new wallet<br><br>
-ShowMyWallet<br>
-Show Player Wallet info. <br>
+## Script command <br>
+
+### Create New wallet
+CreateWallet()<br>
+
+### Show Player's wallet
+ShowMyWallet()<br>
+
+### Show Infomation of ERC20 token
+InfoOfERC20("0xFA9A0930D919657b00e208631c836B404B2da729")<br>
+
+### Check if Player is the owner of this NFT.
+ownerOf(3,"0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1")<br>
+3 is tokenID, "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1" is ERC721 token address<br>
+
+### Show Infomation of ERC20 token
+SendBaseCoin(  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",0.01,1000 ) <br>
+Send 0.01 ETH/BNB/matic to  "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",and get 1000 Game Coins. <br>
+
+### Show Infomation of ERC20 token
+SendERC20( "0xFA9A0930D919657b00e208631c836B404B2da729",18,1,"0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f",1000 )<br>
+Send 1 token (token address:"0xFA9A0930D919657b00e208631c836B404B2da729") to "0x7B70921a415eF9cCea9EFAA19EAB8E9860734c2f" ,and get 1000 Game Coins.<br>
+
+
+
+
+
+
+
+
+
+
+
  
 Video tutorial:https://www.youtube.com/watch?v=DL4XKOE8eN8
  
