@@ -8,6 +8,9 @@
 RPGMaker Free Cryptocurrency Payment Gateway<br>
 
 ### How To Run Game Project<br>
+Download example project directly:<br>
+<a href="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/releases/download/AlgoCrypto2.0/AlgoPaymentProjectV2.0.zip">Example project</a><br>
+
 due to reduce the big size of project zip file ,"audio" and "img" folder are deleted,<br>
 you just need create a new RPG Maker Project, then copy "audio" and "img" folder to this project. <br>
 and then launch the Game.rpgproject. <br>
