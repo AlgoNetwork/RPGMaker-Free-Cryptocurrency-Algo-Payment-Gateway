@@ -30,4 +30,6 @@ Video tutorial:https://www.youtube.com/watch?v=DL4XKOE8eN8
  
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/algoPayment.png" alt="algoPayment">
  <br>
-<img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/plugin.png" alt="RPGmaker">
+<img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/2.png" alt="RPGmaker crypto payment1">
+<img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/1.png" alt="RPGmaker crypto payment2">
+<img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/3.png" alt="RPGmaker crypto payment3">
