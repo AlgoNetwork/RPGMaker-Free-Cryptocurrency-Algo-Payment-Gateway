@@ -17,7 +17,7 @@ and then launch the Game.rpgproject. <br>
  <br>
  
 *This plugin now support Ethereum,Binance,Polygon,Fantom,Moonriver,and Ropsten Test network. <br>
-### How To Use<br>
+### How To Use( if you don't want download the game project)<br>
 1.Copy the "AlgoCryptoPayment.js" and "RS_InputDialog.js" files into your project's /js/plugins/ folder.<br>
 2.Activate plugin using the 'Plugin Manager'.<br>
 
