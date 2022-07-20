@@ -20,6 +20,7 @@ and then launch the Game.rpgproject. <br>
 ### How To Use( if you don't want download the game project)<br>
 1.Copy the "AlgoCryptoPayment.js" and "RS_InputDialog.js" files into your project's /js/plugins/ folder.<br>
 2.Activate plugin using the 'Plugin Manager'.<br>
+3.go to plugin manager,set the RPC URL<br>
 
 ## ** Before test , make sure your crypto account have enough ETH/BNB/ Token / NFT **
 
