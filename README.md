@@ -74,7 +74,7 @@ safeTransferFrom( "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1","0xb6A4c1C0af091a
 
 
 ### Newest Video totorial:
-https://www.youtube.com/watch?v=b54rpqrsd9k <br><br>
+ https://www.youtube.com/watch?v=LouoiSSDxSM <br><br>
 
 
 Old toturial(not use anymore)<br>
