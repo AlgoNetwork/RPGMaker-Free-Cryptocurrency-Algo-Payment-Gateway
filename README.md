@@ -73,10 +73,12 @@ safeTransferFrom( "0x8210be23eC496ABEbb55eD9243FEd11687Fc37d1","0xb6A4c1C0af091a
 
 
 
+### Newest Video totorial:
+https://www.youtube.com/watch?v=b54rpqrsd9k <br><br>
 
 
- 
-Video tutorial:https://www.youtube.com/watch?v=DL4XKOE8eN8
+Old toturial(not use anymore)<br>
+V1 Video tutorial:https://www.youtube.com/watch?v=DL4XKOE8eN8<br>
  
  
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/algoPayment.png" alt="algoPayment">
