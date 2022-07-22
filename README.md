@@ -88,4 +88,5 @@ V1 Video tutorial:https://www.youtube.com/watch?v=DL4XKOE8eN8<br>
 <img src="https://github.com/AlgoNetwork/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/3.png" alt="RPGmaker crypto payment3">
 
 <br>
-The reason why the script is not open source: The encryption script is to prevent someone from directly modifying the name of the source code and becoming someone else's. The source code can be encrypted, the transactions on the blockchain are public, and every transaction you transfer can be viewed on blockchain scan. See what happened to your account, how much it was transferred, to whom it was transferred, it's all public. Encrypting scripts does not compromise security.
+The reason why the script is not open source: 
+<br>The encryption script is to prevent someone from directly modifying the name of the source code and becoming someone else's. The source code can be encrypted, the transactions on the blockchain are public, and every transaction you transfer can be viewed on blockchain scan. See what happened to your account, how much it was transferred, to whom it was transferred, it's all public. Encrypting scripts does not compromise security.
